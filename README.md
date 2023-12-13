@@ -11,6 +11,7 @@
 ``git commit -m "nota"``poner una etiqueta 
 ``git stash`` apartar cambios
 ``git stash pop``regresar los cambios
+``git checkout -b`` {nombre de la rama}
 
 ## terminal
 ``cd`` moverse entre carpetas
@@ -22,3 +23,4 @@
 ``:q``cerrar y no guardar
 ``i``insertar
 ``:w``guardar 
+
