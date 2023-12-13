@@ -8,6 +8,9 @@
 ``git restore`` para descartar los cambios en el directorio de trabajo
 ``git commit``poner una etiqueta 
 ``git push`` publicar tus commits
+``git commit -m "nota"``poner una etiqueta 
+``git stash`` apartar cambios
+``git stash pop``regresar los cambios
 
 ## terminal
 ``cd`` moverse entre carpetas
