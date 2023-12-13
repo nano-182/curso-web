@@ -6,7 +6,6 @@
 ``git add {archivo}`` para introducir a lo que sera confirmado
 ``git add .`` para introducir todo a lo que sera confirmado
 ``git restore`` para descartar los cambios en el directorio de trabajo
-``git commit``poner una etiqueta 
 ``git push`` publicar tus commits
 ``git commit -m "nota"``poner una etiqueta 
 ``git stash`` apartar cambios
