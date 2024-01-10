@@ -15,4 +15,4 @@ console.log(integer, float, string, boolean, object, array, nullValue, undefined
 console.log(typeof integer, typeof float, typeof string, typeof boolean, typeof object, typeof array, typeof nullValue, typeof undefinedValue, typeof symbol);
 
 
-console.log('test1:', "5" + 2 + 3)
+console.log('test1:',  2 + 3 +"5" )
